@@ -3,12 +3,15 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Dan-Nollette/angular2-to-do",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
+  ],
+  "authors": [
+    "Dan Nollette <nollette.dan@gmail.com>"
   ]
 }
